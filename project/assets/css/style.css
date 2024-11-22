@@ -1,0 +1,7 @@
+body {
+    background-color: orangered;
+  }
+  table td {
+    min-height: 6rem;
+    vertical-align: middle;
+  }
